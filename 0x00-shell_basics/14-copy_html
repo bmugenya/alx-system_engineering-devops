@@ -1,1 +1,2 @@
-#!/bin/bash $(cp -nr *.html ../)
+#!/bin/bash 
+ $(cp -nr *.html ../)
