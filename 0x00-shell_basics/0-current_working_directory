@@ -1,1 +1,2 @@
-#!/bin/bash\n  echo pwd
+#!/bin/bash 
+ echo pwd
