@@ -1,1 +1,2 @@
--c #!/bin/bash\necho "whoami"
+#!/bin/bash
+ whoami
