@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "whoami"
+-c #!/bin/bash\necho "whoami"
